@@ -22,6 +22,7 @@ class TestMy_slice(unittest.TestCase):
     def test_empty_array(self):
         self.assertEqual(my_slice([], 0), [])
 
+
 '''
 if __name__ == '__main__':
     unittest.main()
